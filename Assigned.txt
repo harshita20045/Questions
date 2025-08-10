@@ -1,0 +1,6 @@
+# ARRAYS
+1. Largest Element in an Array.
+2. Check if an Array is Sorted.
+3. Find Second Smallest and Second Largest Element in an array.
+4. Linear Search.
+5. Left Rotate the Array by One.
