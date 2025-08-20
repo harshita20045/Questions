@@ -1,0 +1,27 @@
+<script>
+//5. Write a Java program to compare two strings lexicographically Two strings are lexicographically equal if they are the same length and contain the same characters in the same positions
+
+let str1="Hello"
+let str2="Hello"
+let flag =0;
+if(str1.length!=str2.length){
+  document.writeln("not equal")
+}
+else{
+          for(let i=0;i<str1.length;i++){
+            if(str1[i]!=str2[i]){
+                flag =1;
+                break;
+            }
+          }
+}
+
+if(flag==1){
+  document.writeln("string are not equal")
+}else{
+  document.writeln("string are equal")
+}
+ 
+</script>
+ 
+ 

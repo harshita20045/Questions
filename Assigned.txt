@@ -4,3 +4,5 @@
 3. Find Second Smallest and Second Largest Element in an array.
 4. Linear Search.
 5. Left Rotate the Array by One.
+6. Third largest element in an array of distinct elements.
+7. Maximum product of a triplet (subsequence of size 3) in array.
